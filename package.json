@@ -1,0 +1,8 @@
+{
+  "name": "wortify-backend",
+  "private": true,
+  "description": "Netlify Functions backend for Wortify: promo codes and device counting.",
+  "dependencies": {
+    "@netlify/blobs": "^11.1.0"
+  }
+}
